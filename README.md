@@ -15,7 +15,7 @@ This is a homework for the Java OOP Part I
 7. Open `StudentTest` class, put your cursor on `@Test` annotation, press `Alt+Enter` 
     and choose `Add 'testng' to classpath`.  
 8. Set the value to `org.testng:testng:6.14.3` and mark checkbox `Download to`.
-9. Compilation should when wiothout any errors (`Ctrl+F9`). 
+9. Compilation should be without any errors (`Ctrl+F9`). 
 
 
 ## Student App
