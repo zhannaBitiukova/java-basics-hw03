@@ -66,10 +66,10 @@ public class StudentTest {
         student1 + " is not better than " + student2);
 
     Student student3 = new Student("Petro");
-    student1.setRating(51);
+    student3.setRating(51);
 
     Student student4 = new Student("Volodymyr");
-    student2.setRating(30);
+    student4.setRating(30);
 
     assertTrue(student3.betterStudent(student4),
         student1 + " is not better than " + student2);
