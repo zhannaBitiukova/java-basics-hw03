@@ -9,14 +9,13 @@ This is a homework for the Java OOP Part I
 2. Import in IntelliJ IDEA using `File -> New -> Project from Existing Sources...`.
 3. Select the directory that you cloned to.
 4. Go through the `Import Project` wizard by clicking `Next`.
-5. When asked that `File Already Exist` on `java-basics-hw03.iml` choose `Reuse`.
-6. On `Please select project SDK` point it to your Java 1.8 JDK.
-7. Press 'Ctrl+Alt+Shift+S' and check that in your `Project Structure`.
+5. On `Please select project SDK` point it to your Java 1.8 JDK.
+6. Press `Ctrl+Alt+Shift+S` and check that in your `Project Structure`.
     value of `Project language level` is set to `8 - Lambdas, type annotations et.`.
-8. Open `StudentTest` class, put your cursor on `@Test` annotation, press `Alt+Enter` 
+7. Open `StudentTest` class, put your cursor on `@Test` annotation, press `Alt+Enter` 
     and choose `Add 'testng' to classpath`.  
-9. Set the value to `org.testng:testng:6.14.3` and mark checkbox `Download to`.
-10. Compilation should when wiothout any errors (`Ctrl+F9`). 
+8. Set the value to `org.testng:testng:6.14.3` and mark checkbox `Download to`.
+9. Compilation should when wiothout any errors (`Ctrl+F9`). 
 
 
 ## Student App
