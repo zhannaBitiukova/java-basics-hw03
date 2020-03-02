@@ -2,7 +2,7 @@ public class Student {
   int rating;
   private String name;
 
-  // TODO implement Student class according to the instructions providede in the README.md file
+  // TODO implement Student class according to the instructions provided in the README.md file
 
   public Student(String name) {
     //TODO initialize name
@@ -30,12 +30,12 @@ public class Student {
   }
 
   public boolean betterStudent(Student student) {
-    // TODO return the result of comparing this.student's rating with student's rating
+    // TODO return the result of comparing this.student's rating with the student's rating
     return false;
   }
 
   public void changeRating(int rating) {
-    // TODO change this student's rating and average raiting of all students
+    // TODO change this student's rating and average rating of all students
   }
 
   public static void removeStudent(Student student) {
